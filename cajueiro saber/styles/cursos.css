@@ -79,6 +79,8 @@
 
 
 .course-card {
+  border-radius: 12px;
+  padding: 10px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   border: none;
 }
